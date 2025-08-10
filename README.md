@@ -6,5 +6,7 @@ Light Up游戏的魔改版，更适应游协本土口味，欢迎老小登品尝
 [![编程语言](https://img.shields.io/badge/编程语言-C_Sharp-green.svg?style=for-the-badge)](#)
 [![游戏引擎](https://img.shields.io/badge/游戏引擎-Godot_v4.4.1.stable.mono-blue.svg?style=for-the-badge)](#)
 
+[策划案](https://zcnmqqjzidwb.feishu.cn/wiki/HkrhwDtobizroIki2SzcurzPnBh?from=from_copylink)
+
 > [!IMPORTANT]
 > 本项目遵循 [**MIT License**](https://github.com/Yumihoshi/Glow-Getters/blob/main/LICENSE)
